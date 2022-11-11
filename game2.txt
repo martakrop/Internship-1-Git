@@ -1,5 +1,5 @@
-Antonia ima 0 pobjeda i 0 poraza!
-Marta ima 0 pobjeda i 0 poraza!
+Antonia ima 0 pobjeda i 1 poraza!
+Marta ima 1 pobjeda i 0 poraza!
 
 . . X
 . X O
